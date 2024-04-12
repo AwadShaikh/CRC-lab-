@@ -24,35 +24,6 @@ Troubleshooting completed CRC was able to troubleshoot issue realted to corrupte
 <img src="https://imgur.com/Vuf9BGn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Chossing Simulation technique : <br/>
-<img src="https://imgur.com/R9K1AlV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Selecting payload and login page for the simulation:  <br/>
-<img src="https://imgur.com/FkweUsv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Assigning training :  <br/>
-<img src="https://imgur.com/yyNiCGA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Selecting page template :  <br/>
-<img src="https://imgur.com/kSmOElz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Launching simulation :  <br/>
-<img src="https://imgur.com/nwEXhE9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br /> 
-<br />
-<br />   
-Lab output :  <br/>
-Training Simulation email in the assigned users inbox:  <br/>
-<img src="https://imgur.com/1pohgJh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Output if the user clicks the link in the email  :  <br/>
-<img src="https://imgur.com/M838GBr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
