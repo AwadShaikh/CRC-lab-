@@ -16,7 +16,7 @@ Microsoft component repair tool
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the CRC in admin mode to perform system check  : <br/>
+Launching the CRC in admin mode to perform system check  : <br/>
 <img src="https://imgur.com/l0TZyrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
