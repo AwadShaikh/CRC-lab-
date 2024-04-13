@@ -17,11 +17,11 @@ Microsoft component repair tool
 
 <p align="center">
 Launching the CRC in admin mode to perform system check  : <br/>
-<img src="https://imgur.com/l0TZyrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/l0TZyrv.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Troubleshooting completed CRC was able to troubleshoot issue realted to corrupted files:  <br/>
-<img src="https://imgur.com/Vuf9BGn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Troubleshooting completed, CRC was able to troubleshoot the issue realted to the corrupted files:  <br/>
+<img src="https://imgur.com/Vuf9BGn.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
